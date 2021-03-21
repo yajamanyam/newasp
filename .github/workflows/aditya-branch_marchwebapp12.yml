@@ -33,5 +33,5 @@ jobs:
       with:
         app-name: 'marchwebapp12'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_ffc1314b6ea44756803c37b1d5c0e735 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_250db2ef57b14f08b2e60020d6f3098a }}
         package: \published\
